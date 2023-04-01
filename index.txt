@@ -14,3 +14,5 @@ font-style: normal;
 2. New Order (https://fonts.adobe.com/fonts/new-order#details-section+new-order-light)
 
 font-family: new-order, sans-serif;
+
+3. Century Gothic (https://fonts.adobe.com/fonts/century-gothic)
